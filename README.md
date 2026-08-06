@@ -30,22 +30,35 @@ README.md
 - Impedance Cycle
 
 # 분석 흐름
+
 Work battery Data
+
 ↓
+
 EDA
+
 ↓
+
 NASA Charge
+
 ↓
+
 NASA Discharge
+
 ↓
+
 Capacity
+
 ↓
+
 SOH
 
 ↓
+
 Impedance
 
 ↓
+
 Comparison
 ↓
 Conclusion
