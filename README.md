@@ -12,16 +12,14 @@ docs/
 README.md
 
 # Dataset
-## 1. Workshop Battery Dataset
+## 1. 공업사 실제 차량 배터리 데이터
 
-- 공업사에서 수집한 실제 차량 배터리 데이터
-- 변수
-    - Voltage
-    - Internal Resistance
-    - CCA
-    - SOH
+- Voltage
+- Internal Resistance
+- CCA
+- SOH
 
-## 2. NASA Battery Dataset
+## 2. NASA 배터리 데이터
 
 - NASA Ames Prognostics Center
 - Li-ion Battery Aging Dataset
