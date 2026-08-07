@@ -29,36 +29,39 @@ README.md
 
 # 분석 흐름
 
-Work battery Data
+공업사 데이터 EDA
 
 ↓
 
-EDA
+NASA 데이터 EDA
 
 ↓
 
-NASA Charge
+공업사 ↔ NASA 비교
 
 ↓
 
-NASA Discharge
+가설 검증
 
 ↓
 
-Capacity
+RC 등가회로 기반 해석
 
 ↓
 
-SOH
+Feature 선정
 
 ↓
 
-Impedance
+SOH 예측 모델
 
 ↓
 
-Comparison
+시나리오 기반 예측
 
 ↓
 
-Conclusion
+결론
+
+# 가설
+공업사에서 측정 가능한 내부저항, CCA, 전압, 온도 데이터를 이용하면 RC 등가회로 기반 배터리 특성을 간접적으로 추정할 수 있으며, 이를 통해 배터리 SOH 및 잔존 수명을 예측할 수 있을 것이다.
